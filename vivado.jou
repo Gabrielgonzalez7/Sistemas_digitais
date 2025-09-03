@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Wed Sep 03 09:38:39 2025
+# Process ID: 14228
+# Log file: C:/Users/laboratorio/Documents/Projeto_01/vivado.log
+# Journal file: C:/Users/laboratorio/Documents/Projeto_01\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/laboratorio/Documents/Projeto_01/Projeto_01.xpr
+reset_run synth_1
+launch_runs synth_1
+wait_on_run synth_1
+launch_simulation
